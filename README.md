@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @O-68GaganSingh
+- 👋 Hi, I’m @gagansingh27
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on 
