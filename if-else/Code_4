@@ -1,0 +1,22 @@
+/* To check whether a character is alphabet or not */
+
+#include <stdio.h>
+
+int main()
+{
+    char chr;
+    printf("Enter any character: ");
+    scanf("%c", &chr);
+
+
+    if((chr >= 97 && chr <= 122) || (chr >= 65 && chr <= 90))
+    {
+        printf("%c is an Alphabet", chr);
+    }
+    else
+    {
+        printf("%c is Not an Alphabet", chr");
+    }
+
+    return 0;
+}
